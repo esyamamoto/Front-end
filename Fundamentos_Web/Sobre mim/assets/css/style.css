@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+/* Estilos da página index.html*/ 
+
+.container{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 0%;
+}
+
+.container h1{
+    font-size: 45px;
+    color:rgb(255, 0, 0);
+    line-height: 0%;
+    font-family: 'Architects Daughter', Verdana;
+}
+
+.container h3{
+    font-size: 20px;
+    color: #000000;
+    line-height: 0%;
+    font-family: 'Architects Daughter', Verdana;
+}
+.container p-25{
+    font-size: 25px;
+    color: #FFFFFF;
+    line-height: 0%;
+    font-family: 'Architects Daughter', Verdana;
+    padding: 20px;
+}
+
+.container p-18{
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 0%;
+    font-family: 'Architects Daughter', Verdana;
+    padding: 20px;
+}
+
+#menu li {
+    display: inline;
+    padding: 15px;
+}
+
+#menu li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Architects Daughter', Verdana;
+}
+
+#menu li a:hover {
+    color: rgb(255, 0, 0);
+}
+
+.container-2{
+    display: flex;    
+    flex-flow: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 0 50px;
+    background-color: rgb(202, 70, 70);
+}
+
+.container-3{
+    display: flex;    
+    flex-flow: row;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 0 50px;
+}
+
+.p-30 {
+    text-align: justify;
+    padding: 30px;
+    font-size: 15px ;
+    font-family: Verdana;
+    color: #FFFFFF;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh{
+    width: 400px; 
+    height: auto; 
+}
+
+#lista li{
+    display: inline;
+}
+.tm-social{
+   width: 50px;
+   height: 50px;
+   padding: 0 30px;
+}
+
+/*Estilos da página contato.html*/
+
+.ml-50{
+    margin-left: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
+
+.container-4{
+    display: flex;    
+    flex-flow: row;
+    align-items: center;
+    text-align: left;
+    padding: 50px;
+    background-color: rgb(202, 70, 70);
+}
+
+.custom{
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 100%;
+    font-family: 'Architects Daughter', Verdana;
+}
+
+#txtNome{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+#txtEmail{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+#txtAssunto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
