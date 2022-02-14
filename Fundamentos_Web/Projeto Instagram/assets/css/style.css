@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('https://github.com/SpruceGabriela/instagram-dio/blob/master/img/apple-button.png?raw=true');
+    background-image: url('https://github.com/esyamamoto/Front-end/blob/main/Fundamentos_Web/Projeto%20Instagram/assets/img/app.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('https://github.com/SpruceGabriela/instagram-dio/blob/master/img/googleplay-button.png?raw=true');
+    background-image: url('https://github.com/esyamamoto/Front-end/blob/main/Fundamentos_Web/Projeto%20Instagram/assets/img/googleplay.png');
 }
 
 /* media queries */
